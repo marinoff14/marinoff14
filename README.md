@@ -2,7 +2,6 @@
 I'm Ivan, a Tech Enthusiast & Code Newbie looking for new learning possibities. <br>
 - 🌱 I’m currently learning about HTML, CSS, JavaScript, Java and Python. <br>
 - 😄 Pronouns: he/him
-- 🤔 I’m looking for help with Web Development
 - 📫 How to reach me: r37wf483e@mozmail.com
 
 
